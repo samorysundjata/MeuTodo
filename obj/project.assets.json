@@ -1073,19 +1073,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\samor\\.nuget\\packages\\": {}
+    "C:\\Users\\SamorySoundiata\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\samor\\Documents\\repos\\MeuTodo\\MeuTodo.csproj",
+      "projectUniqueName": "C:\\Users\\SamorySoundiata\\source\\repos\\MeuTodo\\MeuTodo.csproj",
       "projectName": "MeuTodo",
-      "projectPath": "D:\\samor\\Documents\\repos\\MeuTodo\\MeuTodo.csproj",
-      "packagesPath": "C:\\Users\\samor\\.nuget\\packages\\",
-      "outputPath": "D:\\samor\\Documents\\repos\\MeuTodo\\obj\\",
+      "projectPath": "C:\\Users\\SamorySoundiata\\source\\repos\\MeuTodo\\MeuTodo.csproj",
+      "packagesPath": "C:\\Users\\SamorySoundiata\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\SamorySoundiata\\source\\repos\\MeuTodo\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\samor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\SamorySoundiata\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1140,7 +1144,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
       }
     }
   }
