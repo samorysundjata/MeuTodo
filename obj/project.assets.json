@@ -1073,23 +1073,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\SamorySoundiata\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\samor\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SamorySoundiata\\source\\repos\\MeuTodo\\MeuTodo.csproj",
+      "projectUniqueName": "D:\\samor\\Documents\\repos\\MeuTodo\\MeuTodo.csproj",
       "projectName": "MeuTodo",
-      "projectPath": "C:\\Users\\SamorySoundiata\\source\\repos\\MeuTodo\\MeuTodo.csproj",
-      "packagesPath": "C:\\Users\\SamorySoundiata\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SamorySoundiata\\source\\repos\\MeuTodo\\obj\\",
+      "projectPath": "D:\\samor\\Documents\\repos\\MeuTodo\\MeuTodo.csproj",
+      "packagesPath": "C:\\Users\\samor\\.nuget\\packages\\",
+      "outputPath": "D:\\samor\\Documents\\repos\\MeuTodo\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\SamorySoundiata\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\samor\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

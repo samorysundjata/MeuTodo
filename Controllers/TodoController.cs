@@ -44,7 +44,7 @@ namespace MeuTodo.Controllers
 
        [HttpPost(template:"todos")]
        public async Task<IActionResult> PostAsync([FromServices] AppDbContext context, 
-            CreateTodoViewModel model)
+           [FromBody] CreateTodoViewModel model)
        {
            if(!ModelState.IsValid)
                return BadRequest();
@@ -67,7 +67,6 @@ namespace MeuTodo.Controllers
             {
                return BadRequest();
            }
-
              
        }
 

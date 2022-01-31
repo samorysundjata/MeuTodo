@@ -33,7 +33,6 @@ D:\samor\Documents\repos\MeuTodo\bin\Debug\net5.0\runtimes\win-arm\native\e_sqli
 D:\samor\Documents\repos\MeuTodo\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
 D:\samor\Documents\repos\MeuTodo\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
 D:\samor\Documents\repos\MeuTodo\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
-D:\samor\Documents\repos\MeuTodo\obj\Debug\net5.0\MeuTodo.csproj.AssemblyReference.cache
 D:\samor\Documents\repos\MeuTodo\obj\Debug\net5.0\MeuTodo.GeneratedMSBuildEditorConfig.editorconfig
 D:\samor\Documents\repos\MeuTodo\obj\Debug\net5.0\MeuTodo.AssemblyInfoInputs.cache
 D:\samor\Documents\repos\MeuTodo\obj\Debug\net5.0\MeuTodo.AssemblyInfo.cs
@@ -98,3 +97,4 @@ C:\Users\SamorySoundiata\source\repos\MeuTodo\obj\Debug\net5.0\MeuTodo.dll
 C:\Users\SamorySoundiata\source\repos\MeuTodo\obj\Debug\net5.0\ref\MeuTodo.dll
 C:\Users\SamorySoundiata\source\repos\MeuTodo\obj\Debug\net5.0\MeuTodo.pdb
 C:\Users\SamorySoundiata\source\repos\MeuTodo\obj\Debug\net5.0\MeuTodo.genruntimeconfig.cache
+D:\samor\Documents\repos\MeuTodo\obj\Debug\net5.0\MeuTodo.csproj.AssemblyReference.cache
